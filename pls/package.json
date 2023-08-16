@@ -1,0 +1,55 @@
+{
+  "name": "pls",
+  "version": "0.0.1",
+  "description": "pls",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.config.js --mode development --port 3000",
+    "build": "Webpack --config webpack.config.js --mode development ",
+    "test": "test"
+  },
+  "author": "Andrei",
+  "eslintConfig": {
+    "extends": [
+      "airbnb-base",
+      "plugin:react/recommended"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/eslint-parser": "^7.22.10",
+    "@babel/plugin-transform-runtime": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-react": "^7.22.5",
+    "@babel/runtime": "^7.22.10",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^6.8.1",
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-jest": "^27.2.3",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.3",
+    "style-loader": "^3.3.3",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.22.10",
+    "bootstrap": "^5.3.1",
+    "history": "^5.3.0",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "react-table": "^7.8.0",
+    "reactstrap": "^9.2.0",
+    "regenerator-runtime": "^0.14.0"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

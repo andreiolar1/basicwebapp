@@ -1,0 +1,4 @@
+
+let userRoles = {
+    USER: "USER",
+};

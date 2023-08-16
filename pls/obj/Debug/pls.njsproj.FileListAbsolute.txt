@@ -1,0 +1,3 @@
+C:\Users\Andrei Olar\source\repos\pls\pls\obj\Debug\pls.njsproj.AssemblyReference.cache
+C:\Users\Andrei Olar\source\repos\pls\pls\obj\Debug\pls.njsproj.CoreCompileInputs.cache
+C:\Users\Andrei Olar\source\repos\pls\pls\bin\Microsoft.NodejsTools.WebRole.dll
